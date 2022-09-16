@@ -1,5 +1,5 @@
-from pages.home_page import HomePage
 from time import sleep
+from pages.home_page import HomePage
 
 
 def test_open_description_form(driver, start_session):
